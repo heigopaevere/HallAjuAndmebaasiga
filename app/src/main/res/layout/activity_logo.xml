@@ -7,7 +7,7 @@
     <ImageView
         android:id="@+id/logopilt"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="111dp"
         android:src="@drawable/hallid" />
 
 </LinearLayout>
