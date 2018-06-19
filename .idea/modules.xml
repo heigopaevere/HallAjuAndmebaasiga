@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HallAju.iml" filepath="$PROJECT_DIR$/HallAju.iml" />
+      <module fileurl="file://C:\Users\opilane\AndroidStudioProjects\HallAjuAndmebaasPuudu\HallAju.iml" filepath="C:\Users\opilane\AndroidStudioProjects\HallAjuAndmebaasPuudu\HallAju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HallAjuAndmebaasPuudu.iml" filepath="$PROJECT_DIR$/HallAjuAndmebaasPuudu.iml" />
       <module fileurl="file://C:\Users\opilane\StudioProjects\HallAju\andmebaasgruppit.iml" filepath="C:\Users\opilane\StudioProjects\HallAju\andmebaasgruppit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\opilane\AndroidStudioProjects\HallAjuAndmebaasPuudu\app\app.iml" filepath="C:\Users\opilane\AndroidStudioProjects\HallAjuAndmebaasPuudu\app\app.iml" />
     </modules>
   </component>
 </project>
